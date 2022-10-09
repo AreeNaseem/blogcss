@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities
+
+/* NAVBAR */
+.home-text{
+    font-size: 0.75rem; /* 12px */
+    line-height: 1rem; /* 16px */
+    color: red;
+}
